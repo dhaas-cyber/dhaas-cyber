@@ -3,7 +3,7 @@
 
 I am a recent graduate with a passion for protecting systems and identifying threats. Skilled in analyzing security data and applying structured methodologies to solve complex problems.
 
-My academic journey in cybersecurity has led me to develop a passion for network and endpoint protection, and I am eager to transition into this field, specifically aiming to become a Cybersecurity Analyst, with an interest in joining a Security Operations Center (SOC).
+My academic journey in cybersecurity has led me to develop a passion for network and endpoint protection, and I aim to become a Cybersecurity Analyst, with an interest in joining a Security Operations Center (SOC).
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -22,20 +22,18 @@ My academic journey in cybersecurity has led me to develop a passion for network
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NetFlow-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NMap-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NetFlow-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### Vulnerability Assessment
 <div>
-    <img src="https://img.shields.io/badge/-OpenVAS-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-00A86B?&style=for-the-badge&logo=none&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=tenable&logoColor=white" />
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
