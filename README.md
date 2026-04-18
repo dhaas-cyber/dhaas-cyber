@@ -1,5 +1,7 @@
 # Hello, I'm Daisy
-<a href="https://linkedin.com/daisyhaas123"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/daisyhaas123/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 I am a recent graduate with a passion for protecting systems and identifying threats. Skilled in analyzing security data and applying structured methodologies to solve complex problems.
 
