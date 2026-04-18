@@ -13,7 +13,7 @@ My academic journey in cybersecurity has led me to develop a passion for network
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Threat Detection & Traffic Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Threat Detection & Traffic Analysis</a>|
-| Incident Response Planning and Execution       | Incident Response|
+| Incident Response Planning and Execution       | Incident Response |
 | Firewall Rule Configuration                    | System Hardening |
 | Scripting and Task Automation                  | System Hardening |
 
@@ -43,4 +43,3 @@ My academic journey in cybersecurity has led me to develop a passion for network
 - Threat Detection & Traffic Analysis
 - Incident Response
 - System Hardening
-- SOC Automation Project
