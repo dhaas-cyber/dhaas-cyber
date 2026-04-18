@@ -38,7 +38,6 @@ My academic journey in cybersecurity has led me to develop a passion for network
     <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=tenable&logoColor=white" />
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
