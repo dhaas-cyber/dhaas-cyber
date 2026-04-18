@@ -11,7 +11,6 @@ My academic journey in cybersecurity has led me to develop a passion for network
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Threat Detection & Traffic Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Threat Detection & Traffic Analysis</a>|
 | Incident Response Planning and Execution       | Incident Response |
 | Firewall Rule Configuration                    | System Hardening |
