@@ -8,18 +8,16 @@ I am a recent graduate with a passion for protecting systems and identifying thr
 My academic journey in cybersecurity has led me to develop a passion for network and endpoint protection, and I aim to become a Cybersecurity Analyst, with an interest in joining a Security Operations Center (SOC).
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution       | SOC Automation Lab|
-| Firewall Rule Configuration                    | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Threat Detection & Traffic Analysis</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Threat Detection & Traffic Analysis</a>|
+| Incident Response Planning and Execution       | Incident Response|
+| Firewall Rule Configuration                    | System Hardening |
+| Scripting and Task Automation                  | System Hardening |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -42,5 +40,7 @@ My academic journey in cybersecurity has led me to develop a passion for network
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
-- Detection Lab
+- Threat Detection & Traffic Analysis
+- Incident Response
+- System Hardening
 - SOC Automation Project
