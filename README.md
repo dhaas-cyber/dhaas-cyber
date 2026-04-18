@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there 👋 my name is Daisy. As a cybersecurity graduate certified with Security+, I’m currently working on building practical, real-world cybersecurity knowledge.
 
 <!--
 **dhaas-cyber/dhaas-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 As a cybersecurity graduate with Security+, I’m currently working on building practical, real-world cybersecurity knowledge.
+- 🔭
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
