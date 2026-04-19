@@ -11,11 +11,12 @@ My academic journey in cybersecurity has led me to develop a passion for network
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Monitoring                    | <a href="[https://github.com/dhaas-cyber/Network-Traffic-Analysis-Threat-Detection/blob/main/README.md)">Network Traffic Analysis & Threat Detection</a>|
-| Incident Response Plan and Execution          | <a href="[https://github.com/dhaas-cyber/Incident-Response/blob/main/README.md)">Incident Response</a>|
-| Network Security Enforcement                  | <a href="[https://github.com/dhaas-cyber/System-Hardening/blob/main/README.md)">System Hardening</a>|
-| System Automation & Hardening                 | <a href="[https://github.com/dhaas-cyber/System-Hardening/blob/main/README.md)">System Hardening</a>|
-| Vulnerability Assessment & Validation         | <a href="[https://github.com/dhaas-cyber/System-Hardening/blob/main/README.md)">System Hardening</a>|
+| Network Traffic Monitoring                    | <a href="(https://github.com/dhaas-cyber/Network-Traffic-Analysis-Threat-Detection/blob/main/README.md)">Network Traffic Analysis & Threat Detection</a>|
+| Incident Response Plan and Execution          | <a href="(https://github.com/dhaas-cyber/Incident-Response/blob/main/README.md)">Incident Response</a>|
+| Network Security Enforcement                  | <a href="(https://github.com/dhaas-cyber/System-Hardening/blob/main/README.md)">System Hardening</a>|
+| System Automation & Hardening                 | <a href="(https://github.com/dhaas-cyber/System-Hardening/blob/main/README.md)">System Hardening</a>|
+| Vulnerability Assessment & Validation         | <a href="(https://github.com/dhaas-cyber/System-Hardening/blob/main/README.md)">System Hardening</a>|
+
 ## Tools
 
 ### Network
