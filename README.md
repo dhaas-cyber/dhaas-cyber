@@ -22,18 +22,25 @@ My academic journey in cybersecurity has led me to develop a passion for network
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NetFlow-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=nmap&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/-OPNsense-E44D26?&style=for-the-badge&logo=opnsense&logoColor=white" />
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
 ### Vulnerability Assessment
 <div>
-    <img src="https://img.shields.io/badge/-OpenVAS-00A86B?&style=for-the-badge&logo=none&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=tenable&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Greenbone-2E8B57?&style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenVAS-228B22?&style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/-Squert-8A2BE2?&style=for-the-badge&logo=databricks&logoColor=white" />
+
+Lab Environment
+<div> 
+  <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/-GNS3-FF6F00?&style=for-the-badge&logo=gnome&logoColor=white" />
+</div>
 
 ## Certifications
 <div>
