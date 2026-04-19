@@ -14,8 +14,8 @@ My academic journey in cybersecurity has led me to develop a passion for network
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Network Traffic Analysis & Threat Detection</a>|
 | Incident Response Planning and Execution       | Incident Response |
 | Firewall Rule Configuration                    | System Hardening |
-| Scripting and Task Automation                  | System Hardening |
-
+| Basic Scripting and Task Automation            | System Hardening |
+| OS Hardening                                   | System Hardening |
 ## Tools
 
 ### Network
